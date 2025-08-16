@@ -1,0 +1,10 @@
+# Arquivos gerados pela compilação
+/build/
+/dist/
+*.bin
+*.elf
+*.map
+
+# Arquivos de configuração do editor
+.vscode/
+sdkconfig
