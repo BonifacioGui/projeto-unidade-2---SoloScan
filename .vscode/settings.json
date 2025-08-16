@@ -9,5 +9,9 @@
   ],
   "idf.portWin": "COM3",
   "idf.toolsPathWin": "C:\\Users\\bonif\\.espressif",
-  "idf.flashType": "UART"
+  "idf.flashType": "UART",
+  "files.associations": {
+    "event_groups.h": "c",
+    "esp_log.h": "c"
+  }
 }
